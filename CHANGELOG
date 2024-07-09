@@ -1,0 +1,35 @@
+### CHANGELOG.md
+
+# Changelog
+
+## [Unreleased]
+
+## [Version 1.0.0] - 2024-07-09
+
+### Added
+
+- Implementación inicial del proyecto.
+- Ejemplos de creación de matrices y tensores usando list comprehensions.
+- Clases en Python con métodos implementados usando funciones lambda.
+- Uso de Poetry como gestor de paquetes para manejo de dependencias.
+- README.md detallado con instrucciones de instalación, uso y ejemplos prácticos.
+
+### Changed
+
+- Nada por el momento.
+
+### Removed
+
+- Nada por el momento.
+
+### Deprecated
+
+- Nada por el momento.
+
+### Fixed
+
+- Nada por el momento.
+
+### Security
+
+- Nada por el momento.
