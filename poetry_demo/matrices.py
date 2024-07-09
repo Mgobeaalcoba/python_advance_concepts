@@ -37,7 +37,7 @@ def main():
 
     # Tensor con valores diferentes
     depth, rows, cols = 3, 5, 4
-    tensor = [[[dep + row + col for dep in range(1, depth + 1)] for col in range(1, cols + 1)] for row in range(1, rows + 1)]
+    tensor = [[[dep * row * col for dep in range(1, depth + 1)] for col in range(1, cols + 1)] for row in range(1, rows + 1)]
     tensor_np2 = np.array(tensor)
     print(tensor_np2)
     print(tensor_np2.shape)
